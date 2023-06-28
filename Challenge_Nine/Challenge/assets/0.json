@@ -1,0 +1,41 @@
+{
+    "name": "COLDS CHALLLENGE NINE",
+    "symbol": "",
+    "description": "NFT Challenge with sugar CLI",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "animation_url": "0.mp4",
+    "external_url": "#",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Colds",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Solana",
+        "value": "Gradient"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ColdsXSolana"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+            "uri": "0.png",
+            "type": "image/png"
+        },
+        {
+            "uri": "0.mp4",
+            "type": "video/mp4"
+        }
+      ],
+      "category": "video"
+    }
+  }

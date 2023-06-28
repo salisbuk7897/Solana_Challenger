@@ -1,0 +1,38 @@
+{
+  "program": {
+    "candyMachine": "GNhtmJxMvD1qyjb6ikKCP9fGC2VJTqp4KyBYkNddQfC7",
+    "candyGuard": "",
+    "candyMachineCreator": "CYjpJ8JThV68wJdZuhgzMwaGL11Nk6WuWDaGHQPRqxY4",
+    "collectionMint": "BHbbqbsnrMcayVEFYRhXqtoi9B599aXbTfbpowmCHGPr"
+  },
+  "items": {
+    "-1": {
+      "name": "COLDS CHALLENGE #9",
+      "image_hash": "f8af68e393fe0d906282f32d047e024b1797c62438e329abfd20e77f8a892d59",
+      "image_link": "https://arweave.net/sRAddR1GAXaan2PHg33YnXNT4vN3JLNIRe-aIB4gdng?ext=png",
+      "metadata_hash": "9bd313fed66fc7bf9013c00ac4edd3f64a81b72303058828b513f32cae45b203",
+      "metadata_link": "https://arweave.net/7T31UA4FN-osi0DC0Xrd5kw9pBKiNNCMFkQNmdnDOSI",
+      "onChain": true
+    },
+    "0": {
+      "name": "COLDS CHALLLENGE NINE",
+      "image_hash": "fa04ba741724e650d59084b793b01e620ff5cac1606d974ea48753df128713e8",
+      "image_link": "https://arweave.net/scukq6SGWT33sXeEFKsdGv6aACCh7t-xOu8AFzctdt0?ext=png",
+      "metadata_hash": "573743be839838c0ec389c4bfbb5b70c5258a87c93b3cc6acb42b0768b65d0dc",
+      "metadata_link": "https://arweave.net/kwTbhNsXOh-7lvB2cO4iauHYH42DgN1hBgsbfS5hYW4",
+      "onChain": true,
+      "animation_hash": "1f8d95c4413c3994b26f1f46a17ec44a21020db39fdf57c58fba9e8e6a23d15e",
+      "animation_link": "https://arweave.net/P3aZPeMBIIsjtY6fHr3mVcsb7_6ashNEE-MHELUtLVo?ext=mp4"
+    },
+    "1": {
+      "name": "COLDS CHALLLENGE NINE",
+      "image_hash": "f8af68e393fe0d906282f32d047e024b1797c62438e329abfd20e77f8a892d59",
+      "image_link": "https://arweave.net/HO6l6H8Kd0S69IqMNI7lvB86o8qGVKJv-Xx1oEYNXWk?ext=png",
+      "metadata_hash": "9a951b8cb3a0e11a0e2fd69ac8d51784e1954b04fc96c2d3dac134b48d8b0938",
+      "metadata_link": "https://arweave.net/bm6Hh2yg9ZxjJA9goMU_zKPdh9-XtFgW1zk5Oh36nIQ",
+      "onChain": true,
+      "animation_hash": "ac749cdff20f7e5de10c0c68ae5e4647365ced5418ad05028d8895f6e11fdfc9",
+      "animation_link": "https://arweave.net/bBqBP5lRGUe9gmRl3aXO-ckGGAoGJo2wGnkQw6S_KVQ?ext=mp4"
+    }
+  }
+}
